@@ -186,6 +186,11 @@ Data Analyst | Power BI | SQL | Data Modeling | Business Intelligence
 
 ---
 
+##  If you find this project useful
+Please ⭐ star the repository - it helps showcase my work to recruiters!
+
+---
+
 ##  Disclaimer
 
 This project is created for **learning, portfolio, and demonstration purposes** and does not represent real customer or banking data.
