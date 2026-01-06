@@ -174,6 +174,23 @@ Due to file size limitations, the Power BI (.pbix) file is hosted externally.
  **Power BI File (View Access):**  
 [Google Drive Link – PBIX File](https://drive.google.com/drive/folders/1QMuRMETPYMmIwdNht7wL3s2dM3w3PE-R?usp=sharing)
 
+##  Power BI Published Dashboard (Interactive – View Only)
+
+This project includes an **interactive Power BI dashboard** published on **Power BI Service**, allowing users to explore insights using slicers, filters, and cross-visual interactions.
+
+The dashboard is built on **historical loan portfolio data covering a 4-year period(Nov 2016 - Feb 2020)** and is designed for performance analysis, risk monitoring, and business decision support.
+
+🔗 **Power BI Report Link (View Only):**  
+https://app.powerbi.com/groups/me/reports/d3837b5a-230e-4ed1-813d-7b0408ee735d/a285e7202d3ee2577e10?experience=power-bi
+
+### Access & Usage Notes
+- The report provides **read-only access** to viewers.
+- Users can interact with filters (Year, Loan Type, Geography) to analyze trends and patterns.
+- The dataset represents a **static historical snapshot** and does not auto-refresh.
+
+This setup reflects common enterprise reporting practices where dashboards are built on **approved historical datasets** for consistent and reliable analysis.
+
+
 > Note: The repository is intentionally maintained as **read-only** for viewers.  
 > Editing rights are restricted to ensure version control and data integrity.
 
